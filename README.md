@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![SARIF](https://img.shields.io/badge/SARIF-2.1.0-orange.svg)](https://docs.oasis-open.org/sarif/sarif/v2.1.0/sarif-v2.1.0.html)
 
-Sleuth finds hardcoded secrets, API keys, tokens, private keys and high-entropy strings in your codebase — fast, accurately, and with beautiful output.
+Sleuth finds hardcoded secrets, API keys, tokens, private keys and high-entropy strings in your codebase fast, accurately, and with beautiful output.
 
 Inspired by Gitleaks and TruffleHog, but written in pure Python with a focus on developer experience, entropy analysis, and first-class SARIF support for GitHub Code Scanning.
 
